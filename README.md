@@ -25,12 +25,12 @@ Este é um aplicativo de cadastro de alunos desenvolvido para uma instituição 
 
 # Imagens
 
-• Mockapi.io com 10 usuario gerados automaticamente
+• Mockapi.io com 10 usuário gerados automaticamente
  
 ![mockapi1](https://github.com/ojoaovf/AC2-Mobile/assets/99789822/33076b83-e9b3-4d7b-872e-9e71a75f3f62)
 
  
-• Mockapi.io com 11 usuario após a inserção de um usuario manualmente
+• Mockapi.io com 11 usuários após a inserção de um usuario manualmente
  
 ![mockapi2](https://github.com/ojoaovf/AC2-Mobile/assets/99789822/068e3ec5-3fe7-4875-afa2-7e1f8f8715ec)
 
