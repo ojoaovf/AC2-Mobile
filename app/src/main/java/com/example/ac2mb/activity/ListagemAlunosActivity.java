@@ -39,7 +39,7 @@ public class ListagemAlunosActivity extends AppCompatActivity {
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
 
         Retrofit retrofit = new Retrofit.Builder()
-                .baseUrl("https://664de54aede9a2b5565559e3.mockapi.io/")
+                .baseUrl("https://66567a9d9f970b3b36c585db.mockapi.io/")
                 .addConverterFactory(GsonConverterFactory.create())
                 .build();
 
